@@ -27,7 +27,7 @@
 /// THE SOFTWARE.
 
 import UIKit
-import FirebaseAuth
+import FirebaseAuth 
 import FirebaseFirestore
 
 class ChannelsViewController: UITableViewController {
