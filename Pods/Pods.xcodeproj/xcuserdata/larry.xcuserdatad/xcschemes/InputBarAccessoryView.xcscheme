@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E0A2F47857C94F551C21B5FE41E85567"
+               BlueprintIdentifier = "48714B01D8FC307ED3434933EEDD5265"
                BlueprintName = "InputBarAccessoryView"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "InputBarAccessoryView.framework">
