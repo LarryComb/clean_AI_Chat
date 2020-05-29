@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0A028F6472FB1E94A9E8A170B90914F"
+               BlueprintIdentifier = "2B78B92F4238E55D9FC12C86657BA2D5"
                BlueprintName = "abseil"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "abseil.framework">
